@@ -1,0 +1,6 @@
+
+
+hi
+
+this is the second day of Git.
+you're doing great.
