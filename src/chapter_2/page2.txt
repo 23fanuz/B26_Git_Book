@@ -3,3 +3,5 @@
 
 this is the second page of chapter 2.
 still learning Git.
+
+page 2 more information added.
